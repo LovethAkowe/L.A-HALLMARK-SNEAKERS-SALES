@@ -1,0 +1,60 @@
+Project Title:
+
+HALLMARK SHOPPING MALL SNEAKERS SALES
+
+Project Summary
+
+The dataset spans from 2015 to 2024 and includes detailed records of sneaker sales, including production volume, sold units, damaged stock, and unsold inventory. Products range from standard to limited editions, each impacting customer demand and pricing power. Women-targeted sneakers slightly outnumber men-targeted ones, indicating a strong female consumer segment. Performance scores, based on efficiency and profitability, vary widely across products. Mid-priced sneakers dominate the product line, suggesting a value-oriented pricing strategy. Brownie and Creamy types are among the most popular categories. Unsold inventory in recent years has seen fluctuations, hinting at overproduction or misaligned forecasting. Anniversary editions generate high revenues despite limited quantities. The top revenue-generating products don't always have the highest units sold, showing that pricing and edition strategy matter. Damage rates significantly affect profitability and performance outcomes.
+
+Key Skills:
+
+Data Analysis: Extracting actionable insights from diverse datasets to identify patterns and trends.
+Business Intelligence: Creating intuitive dashboards for visualizing complex data effectively.
+Trend Analysis: Analyzing seasonal patterns and customer preferences over time.
+Performance Benchmarking: Evaluating sales performance across on products, and pricing power.
+Strategic Decision-Making: Deriving recommendations to support operational and strategic business goals.
+Data Visualization: Designing clear, impactful visualizations using Power BI.
+Methodology:
+
+Data Visualization: Leveraged Power BI to create dashboards highlighting gender base sales , product sold, and revenue by year.
+Trend Analysis: Examined yearly sales data to identify fluctuations in demand and peak periods.
+Performance Benchmarking: Compared totalproducts produced and products sold.
+Observations:
+
+1. Anniversary edition brought in the most sales (283M) followed by special release (275M), Holiday edition (241M), Standard edition (230M) and Limited edition (218M) making them the top 5 edition type bringing in the most sales.
+
+2. Women brought in most sales (690M) in gender based targeting while men brought in sales of 558M.
+
+3. Superga 2750 cotu classic had the most quantity sold (881k) followed by Air Jordan 1 Mid shoes (856k), then Under Armour Charged Assert 9 (852k), Fila disruptor 11 premium (828k) and Puma Smash V2 Sneakers (826k).
+
+4. More Air Jordan 1 Mid Shoes were produced in quantity (1.62M), followed by under Armour Charged Assert (1.52M), then Nike Air force 1 '07 Sneakers (1.49M), New Balance 574 core (1.45M) and Fila disruptor 11 premium (1.45M).
+
+5. Air Jordan 1 Mid shoes brought in the most sales in terms of revenue estimated (94M), followed by Nike Air Force 1 '07 sneakers (92), then Onitsuka Tiger Mexico 66 (81M), Columbia Trialstorm water proof (76M) and Hoka one one Clifton8 had the least sales (75M).
+
+6. 2016 had the most sales across the years 2015 through 2024 with a total sales of 142M while 2024 had the least sales of 110M.
+
+RECOMMENDATION
+
+Focus more on Anniversary and Limited Editions, which yield higher revenue per unit and appear to have higher consumer appeal.
+
+Increase production forecasting accuracy to reduce unsold inventory, especially for low-performing standard editions.
+
+Strengthen quality control to reduce damaged units, which heavily impact profitability and warehouse costs.
+
+Expand offerings for women, since women-targeted products are slightly outperforming in sales efficiency.
+
+Introduce more mid-range priced products during Q4, aligning with seasonal demand spikes.
+
+Reconsider or repackage underperforming products with consistently low sell-through rates, possibly offering them in bundles or discounts.
+
+Use performance scores to guide future inventory planning, prioritizing products with scores above a defined threshold.
+
+Streamline SKUs with low profitability, especially those repeatedly scoring negative on performance and having high damage.
+
+Diversify product types beyond Brownie and Creamy to spread risk and capture niche market preferences.
+
+Run targeted marketing campaigns for high-performing yet low-selling products, increasing their visibility to match their potential.
+
+CONCLUSION
+
+This sneaker dataset offers valuable insights into product performance, consumer preferences, and operational efficiency. Revenue is driven more by strategic edition types and pricing than just unit sales. Gender targeting and seasonal timing also play key roles in product success. Quality control and inventory planning remain critical areas of improvement. Strategic product selection and release timing can drive significant gains. Implementing these data-driven recommendations will help enhance profitability and market positioning.
